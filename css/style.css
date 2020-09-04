@@ -1,0 +1,72 @@
+img {
+    margin-left: 48%;
+    margin-top: 50px;
+    width: 5%;
+    height: auto;
+}
+.all{
+    background-color:rgb(246, 253, 251);
+
+}
+.bill{
+    margin-left: 24%;
+}
+.form-group{
+    margin-left: 20%;
+}
+.form-inline .form-control {
+    width: 45%;
+}
+.last{
+    padding-left: 42%;
+}
+#box{
+    width:45%;
+}
+#last-name{
+    margin-left: 23px;
+}
+#user-id{
+    width: 95%;
+}
+#priya{
+    width: 70%;
+    height: 40px;
+}
+#priya1{
+    height: 40px;
+}
+#priya2{
+margin-left: 100px;
+}
+#priya3{
+    width: 35%;
+    height: 30px;
+}
+#priya4{
+    width:15%;
+    height: 30px;
+}
+input[type=checkbox], input[type=radio] {
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+    margin-top:10px ;
+}
+#priya5{
+    margin-left: 110px;
+}
+.bg-info {
+    background-color:#e5e5e5 !important;
+    color:green !important;
+}
+#ft{
+    margin-left: 50%;
+    margin-top: 7%;
+}
+#first-name{
+    margin-left: 34%;
+}
+#creditcard{
+    margin-right:56%
+}
